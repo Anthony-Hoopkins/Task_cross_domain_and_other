@@ -1,0 +1,167 @@
+.red {
+	color: red;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {	
+	font-family: 'PT Sans', sans-serif;
+	font-weight: lighter;
+	font-size: 24px;
+    line-height: 1.5;
+	text-transform: uppercase;	
+}
+
+.head_image, .head_image img, body, .main-menu, .main-menu ul, .main-menu ul li, .logo, h4, h1, h3, h2, p,
+ main,.main-menu li.logo > a, .dropdown-menu ul, .dropdown-menu li, .main-menu > ul > li.logo > a > img {
+	padding:0;
+	margin:0;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix,
+.clearfix:after {
+	clear: both;
+}
+
+header, main{
+	box-sizing: border-box;
+	width: 100%;				
+}	
+
+.main-menu {
+	box-sizing: border-box;	
+    list-style: none;
+    background: #fff9f1;
+    border: 1px solid #e5e5e5;
+	font-size: calc(0.8rem + 0.5vw);
+}
+
+.main-menu a{
+	box-sizing: border-box;
+	display: inline-block;
+	padding: 20px 0;
+	width: 100%;
+	text-align: center;	
+	text-decoration: none;
+	color: #0088cc;		
+}
+
+.main-menu li {
+   display: inline-block;
+	box-sizing: border-box;
+	position: relative;
+	vertical-align: middle;	
+	padding:  2px 0;
+	width: 20%;
+}
+
+.btn:hover { 
+	background-color:  #83b4d4;
+	color: #fff;	
+}
+
+.btn:active {
+	background-color: #5296bd;
+	color: #000;	
+}
+
+
+
+
